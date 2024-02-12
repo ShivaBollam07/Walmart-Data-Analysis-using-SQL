@@ -9,7 +9,7 @@ The dataset used for this analysis can be found at [Walmart Recruiting - Store S
 
 ## Steps to Set Up and Run the Project
 
-0. **Clone Repositry:**
+0. **Clone Repository:**
    -   `git clone https://github.com/ShivaBollam07/Walmart-Data-Analysis-using-SQL.git`
 
 1. **Create a MySQL Database:**
