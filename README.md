@@ -9,6 +9,9 @@ The dataset used for this analysis can be found at [Walmart Recruiting - Store S
 
 ## Steps to Set Up and Run the Project
 
+0. **Clone Repositry:**
+   -   `git clone https://github.com/ShivaBollam07/Walmart-Data-Analysis-using-SQL.git`
+
 1. **Create a MySQL Database:**
 
    - Open MySQL Workbench or any preferred MySQL client.
@@ -32,14 +35,14 @@ The dataset used for this analysis can be found at [Walmart Recruiting - Store S
 To run the project, follow these steps:
 
 ```bash
-git clone https://github.com/ShivaBollam07/Walmart-Data-Analysis-using-SQL.git
 cd Walmart-Data-Analysis-using-SQL
 Run all DataAnalysis.ipynb
 ```
 
 ## Dependencies
 
-Pandas
-Matplotlib
-NumPy
-mysql-connector
+1. Pandas
+2. Matplotlib
+3. Numpy
+4. mysql-connector
+
