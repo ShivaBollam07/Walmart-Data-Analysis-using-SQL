@@ -1,6 +1,5 @@
 # Walmart Data Analysis
 
-
 This project involves analyzing sales data from Walmart in order to gain insights into various aspects of their business operations, including product performance, customer trends, and market demand.
 
 ## Dataset Details
@@ -10,8 +9,8 @@ The dataset used for this analysis can be found at [Walmart Recruiting - Store S
 ## Steps to Set Up and Run the Project
 
 0. **Clone Repository:**
-   -   `git clone https://github.com/ShivaBollam07/Walmart-Data-Analysis-using-SQL.git`
 
+   - `git clone https://github.com/ShivaBollam07/Walmart-Data-Analysis-using-SQL.git`
 1. **Create a MySQL Database:**
 
    - Open MySQL Workbench or any preferred MySQL client.
@@ -45,4 +44,4 @@ Run all DataAnalysis.ipynb
 2. Matplotlib
 3. Numpy
 4. mysql-connector
-
+5. seaborn
